@@ -13,17 +13,17 @@ Navigating the used car market can be overwhelming. This project aims to bring t
 
 ### 1. Home Page
 <p align="center">
-  <img src="HomePage.png" alt="Home Page" width="850"/>
+  <img src="HomePage_2.jpg" alt="Home Page" width="850"/>
 </p>
 
 ### 2. Market Pulse & Distribution (Dashboard 1)
 <p align="center">
-  <img src="Dashboard%201.png" alt="Market Pulse Dashboard" width="850"/>
+  <img src="Dashboard1.jpg" alt="Market Pulse Dashboard" width="850"/>
 </p>
 
 ### 3. Price Drivers & Deep Analysis (Dashboard 2)
 <p align="center">
-  <img src="Dashboard%202.png" alt="Price Drivers Dashboard" width="850"/>
+  <img src="Dashboard%202.jpg" alt="Price Drivers Dashboard" width="850"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Navigating the used car market can be overwhelming. This project aims to bring t
 * `Used Car_row_data.csv` — Raw dataset prior to cleaning and transformation.
 * `Used_car_clean_data.xlsx` — Cleaned and profiled dataset ready for modeling.
 * `power BI project.pbix` — Complete interactive Power BI report file.
-* `HomePage.png`, `Dashboard 1.png`, `Dashboard 2.png` — High-resolution dashboard screenshots.
+* `HomePage_2.jpg`, `Dashboard1.jpg`, `Dashboard 2.jpg` — High-resolution dashboard screenshots.
 
 ---
 
